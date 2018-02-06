@@ -4,37 +4,42 @@ import math
 from termcolor import colored
 import numpy as np
 
-def user_input():
-    # collect all link start and end points and if we want
-    # open or closed solution, theta1, and theta2
-    # have user decide when to stop adding points
+link_magnitudes = []
+is_open_int = 0
+theta1 = 0.0
+theta2 = 0.0
 
+def user_input():
     num_links = raw_input('Please enter how many links are in your system: ')
-    if (int(num_links) != 4):
+    if int(num_links) != 4:
         print colored('ERROR: This program only solves 4 bar linkages.', 'red')
         print colored('Restarting program', 'red')
         # TODO: restart program
     else:
-        # TODO: Fix entry of links. Input should be: please enter head
-        # coordinates and tail coordinates for link a. (then cycle to d)
-        print 'Please enter joint positions. Follow this example: '
-        print '[[1, 2], [3, 4], [5, 6], [7, 8], [9, 10], [11, 12], [13, 14], [15, 16]]'
-        link_joint_poses = input()
-        np.array(link_joint_poses)
-        print link_joint_poses
-        print np.array(link_joint_poses).shape
-    print('Do you want to solve for the open configurations?')
+        print 'Please enter the link lengths'
+        link_a = float(raw_input('link a: '))
+        link_b = float(raw_input('link b: '))
+        link_c = float(raw_input('link c: '))
+        link_d = float(raw_input('link d: '))
+        global link_magnitudes 
+        link_magnitudes = [link_a, link_b, link_c, link_d]
+    print 'Do you want to solve for the open configurations?'
     is_open = raw_input('Enter (Y/n): ')
+    global is_open_int
     if is_open == 'Y':
         is_open_int = 1
     else:
         is_open_int = -1
-    # TODO: parse raw input to determine if radians or degrees
-    theta1 = raw_input('Please enter the constant, theta1, in radians:  ')
-    theta2 = raw_input('Please enter the input angle, theta2, in radians: ')
-    # TODO: Verifty all inputs are received correctly
-    # TODO: Pass input variable information
-
+    is_rad = raw_input('Do you want to enter the input angles in radians? (Y/n): ')
+    global theta1
+    global theta2
+    if is_rad == 'Y':
+        theta1 = float(raw_input('Please enter the constant, theta1, in radians:  '))
+        theta2 = float(raw_input('Please enter the input angle, theta2, in radians: '))
+    else:
+        theta1 = math.radians(float(raw_input('Please enter the constant, theta1, in degrees:  ')))
+        theta2 = math.radians(float(raw_input('Please enter the input angle, theta2, in degrees: ')))
+        
 def fourbar_pose(l, theta1, theta2, is_open):
     k1 = l[3] / l[0]
     k2 = l[3] / l[2]
@@ -54,28 +59,24 @@ def fourbar_pose(l, theta1, theta2, is_open):
     theta4 = 2*np.arctan((-B-(1*is_open)*np.sqrt(B**2 - 4*A*C))/(2*A))
 
     theta3 = 2*np.arctan((-E-(1*is_open)*np.sqrt(E**2 - 4*D*F))/(2*D))
-    
+ 
     print 'theta3 is ' + str(math.degrees(theta3)) + ' degrees'
     print 'theta4 is ' + str(math.degrees(theta4)) + ' degrees'
 
 def magnitude(head, tail):
-    magnitude = np.sqrt(np.dot(head, tail))    
+    magnitude = np.sqrt(np.dot(head, tail))
     return magnitude
 
 def main():
 #    TEST 1: USER INPUT
-
+    user_input()    
 #    TEST 2: MAGNITUDE FUNCTION
 #    head = [1, 2]
 #    tail = [3, 4]
 #    magnitude(head, tail)
 
 #    TEST 3: POSE CALCULATION
-#    l = [40, 120, 80, 100]
-#    theta1 = 0
-#    theta2 = 0.698132 # 40 degrees
-#    is_open = -1
-#    fourbar_pose(l, theta1, theta2, is_open)
+    fourbar_pose(link_magnitudes, theta1, theta2, is_open_int)
 
 if __name__ == '__main__':
     main()
