@@ -1,0 +1,507 @@
+﻿!UI trail file version 1
+!Application name  `PRO`
+! Executed sub-command ProCmdWinCloseAsyn.
+~ Wheel `main_dlg_cur` `proe_win` 9 1398 891 393216 512 2927 1526 3840 2160 315074
+~ Command `ProCmdNaMeasureAngle` 
+!ODUI external UI session start for device : nmd_1 
+!%CPSelect the first reference for the Angle analysis
+~ Wheel `main_dlg_cur` `proe_win` 9 1178 388 393216 0 2927 1526 3840 2160 323367
+~ Wheel `main_dlg_cur` `proe_win` 9 1178 388 393216 0 2927 1526 3840 2160 323380
+~ Wheel `main_dlg_cur` `proe_win` 9 1169 388 393216 512 2927 1526 3840 2160 323489
+~ LButtonArm `main_dlg_cur` `proe_win` 9 735 764 0 1 2927 1526 3840 2160 325560
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 735 764 0 0 2927 1526 3840 2160 325617
+@ sel view 0
+ 88.006778 16.381832 53.762181 34.889328 62.386381 -76.122294
+ -44.062130 82.118844 47.105771 250.297196 189.420691 -1805.773718 1.596895 0.000000 0
+@ stack attr 8
+@ stack attr twk_s_eps
+@ stack idx 0
+@SEL_REC 1 [85] 2 4 -1 (0.0000000000 0.0000000000) (-0.1445498396 0.0000000000 1.2306513671)
+!TOP:F2(DATUM PLANE):GEAR
+!%CEThis measurement cannot be performed for the given set of references
+!%CPSelect the second reference for the Angle analysis
+~ MButtonArm `main_dlg_cur` `proe_win` 9 798 768 0 2 2927 1526 3840 2160 326180
+~ Move `main_dlg_cur` `proe_win` 9 800 769 0 1538 2927 1526 3840 2160 326184
+~ Move `main_dlg_cur` `proe_win` 9 800 771 0 1026 2927 1526 3840 2160 326189
+~ Move `main_dlg_cur` `proe_win` 9 801 772 0 1538 2927 1526 3840 2160 326197
+~ Move `main_dlg_cur` `proe_win` 9 802 774 0 1538 2927 1526 3840 2160 326205
+~ Move `main_dlg_cur` `proe_win` 9 804 775 0 1538 2927 1526 3840 2160 326214
+~ Move `main_dlg_cur` `proe_win` 9 805 776 0 1538 2927 1526 3840 2160 326221
+~ Move `main_dlg_cur` `proe_win` 9 807 778 0 1538 2927 1526 3840 2160 326229
+~ Move `main_dlg_cur` `proe_win` 9 808 779 0 1538 2927 1526 3840 2160 326237
+~ Move `main_dlg_cur` `proe_win` 9 808 781 0 1026 2927 1526 3840 2160 326245
+~ Move `main_dlg_cur` `proe_win` 9 809 782 0 1538 2927 1526 3840 2160 326274
+~ Move `main_dlg_cur` `proe_win` 9 811 782 0 514 2927 1526 3840 2160 326291
+~ Move `main_dlg_cur` `proe_win` 9 811 784 0 1026 2927 1526 3840 2160 326315
+~ Move `main_dlg_cur` `proe_win` 9 812 785 0 1538 2927 1526 3840 2160 326324
+~ Move `main_dlg_cur` `proe_win` 9 815 788 0 1538 2927 1526 3840 2160 326341
+~ Move `main_dlg_cur` `proe_win` 9 818 791 0 1538 2927 1526 3840 2160 326357
+~ Move `main_dlg_cur` `proe_win` 9 822 795 0 1538 2927 1526 3840 2160 326391
+~ Move `main_dlg_cur` `proe_win` 9 824 796 0 1538 2927 1526 3840 2160 326407
+~ Move `main_dlg_cur` `proe_win` 9 824 798 0 1026 2927 1526 3840 2160 326424
+~ Move `main_dlg_cur` `proe_win` 9 825 801 0 1538 2927 1526 3840 2160 326441
+~ Move `main_dlg_cur` `proe_win` 9 827 803 0 1538 2927 1526 3840 2160 326457
+~ Move `main_dlg_cur` `proe_win` 9 827 805 0 1026 2927 1526 3840 2160 326481
+~ Move `main_dlg_cur` `proe_win` 9 828 806 0 1538 2927 1526 3840 2160 326497
+~ Move `main_dlg_cur` `proe_win` 9 828 808 0 1026 2927 1526 3840 2160 326576
+~ MButtonDisarm `main_dlg_cur` `proe_win` 9 828 808 0 0 2927 1526 3840 2160 326653
+~ Move `main_dlg_cur` `proe_win` 9 997 704 33554432 0 2927 1526 3840 2160 327065
+~ Wheel `main_dlg_cur` `proe_win` 9 1040 650 34013184 0 2927 1526 3840 2160 327525
+~ Wheel `main_dlg_cur` `proe_win` 9 1040 650 34013184 0 2927 1526 3840 2160 327563
+~ Wheel `main_dlg_cur` `proe_win` 9 1040 650 34013184 0 2927 1526 3840 2160 327603
+~ Wheel `main_dlg_cur` `proe_win` 9 1040 650 34013184 0 2927 1526 3840 2160 327657
+~ Wheel `main_dlg_cur` `proe_win` 9 962 746 33947648 0 2927 1526 3840 2160 328529
+~ Wheel `main_dlg_cur` `proe_win` 9 962 746 33947648 0 2927 1526 3840 2160 328558
+~ Wheel `main_dlg_cur` `proe_win` 9 962 746 33947648 0 2927 1526 3840 2160 328584
+~ LButtonArm `main_dlg_cur` `proe_win` 9 1700 305 33554432 1 2927 1526 3840 2160 332403
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 1700 305 33554432 0 2927 1526 3840 2160 332517
+@ sel view 0
+ 80.617995 29.795165 59.303596 44.791536 44.425918 -83.210490
+ -48.973327 89.680073 21.518068 289.274898 137.690576 -1823.702748 2.395343 0.000000 0
+@ stack attr 8
+@ stack attr twk_s_eps
+@ stack idx 0
+@SEL_REC 1 [88] 2 219 -1 (0.0000000000 0.0000000000) (2.4143989966 0.2643105690 -0.2500000000)
+!DTM1:F10(DATUM PLANE):LINK3_GRIPPER
+!%CDAngle = 0.0000000000 deg
+!%CIAdvanced Measure analysis completed successfully.
+!%CPSelect reference(s) for Measure Angle analysis
+~ Move `main_dlg_cur` `proe_win` 9 1700 305 0 0 2927 1526 3840 2160 332859
+~ Close `nmd_1` `nmd_1`
+!ODUI external UI session stop. 
+~ Wheel `main_dlg_cur` `proe_win` 9 632 1015 393216 0 2927 1526 3840 2160 340512
+~ Wheel `main_dlg_cur` `proe_win` 9 628 1009 393216 0 2927 1526 3840 2160 340597
+~ Wheel `main_dlg_cur` `proe_win` 9 628 1009 393216 0 2927 1526 3840 2160 340629
+~ Wheel `main_dlg_cur` `proe_win` 9 713 1109 458752 0 2927 1526 3840 2160 341054
+~ Wheel `main_dlg_cur` `proe_win` 9 705 1116 458752 1536 2927 1526 3840 2160 341146
+~ Activate `main_dlg_cur` `page_Model_control_btn` 1
+~ Command `ProCmdDatumSketCurve` 
+!ODUI session starting: Okit widgets are on, Undo/Redo on, Dashboard style off, Tab style on. Feature title : Sketch
+!ODUI session started.
+!%CPSelect a plane or surface to define sketch plane.
+~ LButtonArm `main_dlg_cur` `proe_win` 9 693 1095 0 1 2927 1526 3840 2160 347602
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 693 1095 0 0 2927 1526 3840 2160 347664
+@ sel view 0
+ 80.617995 29.795165 59.303596 44.791536 44.425918 -83.210490
+ -48.973327 89.680073 21.518068 289.274898 137.690576 -1823.702748 1.916274 0.000000 0
+@ stack attr 8
+@ stack idx 0
+@SEL_REC 1 [85] 2 2190 -1 (1.5864611547 3.5645940424) (-0.1854059576 -0.3080585942 1.2500000000)
+!Surf:F6(EXTRUDE_1):GEAR
+!%CPSelect a reference, such as surface, plane or edge to define view orientation.
+~ Activate `Odui_Dlg_00` `stdbtn_1`
+!sket_eps     0.03746827629
+!Command ProCmdEditOneByOne was pushed from the software.
+~ Command `ProCmdViewSketchView` 
+!%CISection has been reoriented to 2D orientation.
+~ Wheel `main_dlg_cur` `proe_win` 9 1503 829 458752 0 2927 1526 3840 2160 353795
+~ Wheel `main_dlg_cur` `proe_win` 9 1494 821 458752 0 2927 1526 3840 2160 353923
+~ Command `ProCmdSketLine`  1
+!%CPSelect start point.
+!%CIWhen a constraint is active, right click to cycle through lock/disable/enable the constraint. Use Tab key to toggle active constraint. Press and hold Shift to disable snapping to new constraints.
+~ Enter `main_dlg_cur` `proe_win` 9 549 26 0 1536 2927 1526 3840 2160 357997
+~ Move `main_dlg_cur` `proe_win` 9 549 26 0 0 2927 1526 3840 2160 357997
+!sket_eps     0.04642072928
+>M rb_append_tb_cnd_CB ProeWin2 552 1524 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB 0 -1 2319 55 1 86
+>M rb_append_tb_cnd_CB ProeWin2 552 1525 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB 0 -1 3007 3 1 86
+>M rb_append_tb_cnd_CB ProeWin2 552 1525 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB 0 -1 2239 55 1 85
+>M rb_append_tb_cnd_CB ProeWin2 553 1525 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB 0 -1 2240 3 1 85
+>M rb_append_tb_cnd_CB ProeWin2 553 1525 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB -1 -1 0 -1 -1
+>M rb_append_tb_cnd_CB ProeWin2 553 1526 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB 0 -1 3340 3 1 85
+>M rb_append_tb_cnd_CB ProeWin2 553 1526 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB 0 -1 3340 3 1 85
+>M rb_append_tb_cnd_CB ProeWin2 553 1526 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB 0 -1 3340 3 1 85
+>M rb_append_tb_cnd_CB ProeWin2 553 1526 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB 0 -1 3340 3 1 85
+>M rb_append_tb_cnd_CB ProeWin2 553 1526 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB 0 -1 3340 3 1 85
+>M rb_append_tb_cnd_CB ProeWin2 553 1526 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB 0 -1 84 3 1 77
+>M rb_append_tb_cnd_CB ProeWin2 553 1526 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB 0 -1 83 55 1 77
+>M rb_append_tb_cnd_CB ProeWin2 553 1526 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB 0 -1 83 55 1 77
+>M rb_append_tb_cnd_CB ProeWin2 553 1526 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB 0 -1 83 55 1 77
+>M rb_append_tb_cnd_CB ProeWin2 553 1526 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB 0 -1 83 55 1 77
+>M rb_append_tb_cnd_CB ProeWin2 553 1526 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB 0 -1 83 55 1 77
+>M rb_append_tb_cnd_CB ProeWin2 553 1526 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB 0 -1 83 3 1 77
+>M rb_append_tb_cnd_CB ProeWin2 553 1526 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB 0 -1 83 3 1 77
+>M rb_append_tb_cnd_CB ProeWin2 553 1526 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB 0 -1 83 3 1 77
+>M rb_append_tb_cnd_CB ProeWin2 553 1526 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB 0 -1 83 3 1 77
+>M rb_append_tb_cnd_CB ProeWin2 553 1526 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB 0 -1 83 3 1 77
+>M rb_append_tb_cnd_CB ProeWin2 553 1526 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB 0 -1 83 3 1 77
+>M rb_append_tb_cnd_CB ProeWin2 553 1526 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB 0 -1 83 3 1 77
+>M rb_append_tb_cnd_CB ProeWin2 553 1526 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB 0 -1 83 3 1 77
+>M rb_append_tb_cnd_CB ProeWin2 553 1526 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB 0 -1 83 3 1 77
+>M rb_append_tb_cnd_CB ProeWin2 553 1526 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB 0 -1 83 3 1 77
+>M rb_append_tb_cnd_CB ProeWin2 553 1526 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB 0 -1 83 3 1 77
+>M rb_append_tb_cnd_CB ProeWin2 553 1526 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB -1 -1 0 -1 -1
+>M rb_append_tb_cnd_CB ProeWin2 552 1526 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB 0 -1 3124 4 1 85
+>M rb_append_tb_cnd_CB ProeWin2 552 1526 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB 0 -1 3124 4 1 85
+>M rb_append_tb_cnd_CB ProeWin2 552 1526 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB 0 -1 3124 4 1 85
+>M rb_append_tb_cnd_CB ProeWin2 552 1526 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB -1 -1 0 -1 -1
+~ Wheel `main_dlg_cur` `proe_win` 9 920 989 458752 1024 2927 1526 3840 2160 359476
+!sket_eps     0.03713658342
+~ Wheel `main_dlg_cur` `proe_win` 9 920 990 458752 1024 2927 1526 3840 2160 359526
+!sket_eps     0.02970926674
+~ Wheel `main_dlg_cur` `proe_win` 9 920 990 458752 0 2927 1526 3840 2160 359576
+!sket_eps     0.02376741339
+>M rb_append_tb_cnd_CB ProeWin2 552 1526 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB 0 -1 3124 4 1 85
+>M rb_append_tb_cnd_CB ProeWin2 552 1526 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB 0 -1 3124 4 1 85
+>M rb_append_tb_cnd_CB ProeWin2 552 1526 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB 0 -1 3124 4 1 85
+>M rb_loop_touch_tt_ch ProeWin2 909 949 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@SELECT_3D_GEOM 2 0 1 85 4 3124 -1 0.0000000000 0.0000000000 0.000000 0.000000 1.250000
+~ LButtonArm `main_dlg_cur` `proe_win` 9 909 949 0 1 2927 1526 3840 2160 360377
+>M rb_append_tb_cnd_CB ProeWin2 552 1526 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB 0 -1 3124 4 1 85
+!Dragger (SKETCHER_LOOP_DRAGGER) start dragging
+!%CPSelect end point.
+!%CIWhen a constraint is active, right click to cycle through lock/disable/enable the constraint. Use Tab key to toggle active constraint. Press and hold Shift to disable snapping to new constraints.
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 909 949 0 0 2927 1526 3840 2160 360438
+0.312747 0.336436 N 0 1.808592593 2
+~ Move `main_dlg_cur` `proe_win` 9 908 949 0 512 2927 1526 3840 2160 360562
+>M rb_append_tb_cnd_CB ProeWin2 552 1526 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB 0 -1 3124 4 1 85
+>M rb_append_tb_cnd_CB ProeWin2 552 1526 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB -1 -1 0 -1 -1
+>M rb_append_tb_cnd_CB ProeWin2 552 1526 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB 0 -1 84 3 1 77
+>M rb_append_tb_cnd_CB ProeWin2 552 1526 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB -1 -1 0 -1 -1
+~ Wheel `main_dlg_cur` `proe_win` 9 616 953 393216 1536 2927 1526 3840 2160 360746
+!sket_eps     0.02970926674
+~ Wheel `main_dlg_cur` `proe_win` 9 613 953 393216 0 2927 1526 3840 2160 360793
+~ Wheel `main_dlg_cur` `proe_win` 9 613 953 393216 0 2927 1526 3840 2160 360839
+!sket_eps     0.04642072928
+>M rb_append_tb_cnd_CB ProeWin2 552 1526 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB 0 -1 3124 4 1 85
+>M rb_append_tb_cnd_CB ProeWin2 553 1526 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB 0 -1 83 3 1 77
+>M rb_append_tb_cnd_CB ProeWin2 553 1526 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB 0 -1 3341 3 1 85
+>M rb_append_tb_cnd_CB ProeWin2 553 1526 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB -1 -1 0 -1 -1
+>M rb_append_tb_cnd_CB ProeWin2 554 1526 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB 0 -1 50 3 1 77
+>M rb_append_tb_cnd_CB ProeWin2 555 1526 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB -1 -1 0 -1 -1
+>M rb_append_tb_cnd_CB ProeWin2 555 1526 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB 0 -1 199 3 1 88
+>M rb_append_tb_cnd_CB ProeWin2 555 1526 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB 0 -1 199 3 1 88
+>M rb_append_tb_cnd_CB ProeWin2 555 1526 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB 0 -1 199 3 1 88
+>M rb_append_tb_cnd_CB ProeWin2 555 1526 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB 0 -1 199 3 1 88
+>M rb_append_tb_cnd_CB ProeWin2 555 1526 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB 0 -1 199 3 1 88
+>M rb_append_tb_cnd_CB ProeWin2 555 1526 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB 0 -1 199 3 1 88
+>M rb_append_tb_cnd_CB ProeWin2 555 1526 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB 0 -1 199 3 1 88
+>M rb_append_tb_cnd_CB ProeWin2 555 1526 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB 0 -1 199 3 1 88
+>M rb_append_tb_cnd_CB ProeWin2 555 1526 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB 0 -1 199 3 1 88
+>M rb_append_tb_cnd_CB ProeWin2 555 1526 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB 0 -1 199 3 1 88
+~ Wheel `main_dlg_cur` `proe_win` 9 1172 906 458752 1536 2927 1526 3840 2160 361543
+!sket_eps     0.03713658342
+>M rb_append_tb_cnd_CB ProeWin2 555 1526 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB 0 -1 199 3 1 88
+>M rb_append_tb_cnd_CB ProeWin2 555 1526 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB -1 -1 0 -1 -1
+~ Wheel `main_dlg_cur` `proe_win` 9 1182 896 458752 1536 2927 1526 3840 2160 361592
+!sket_eps     0.02970926674
+>M rb_append_tb_cnd_CB ProeWin2 555 1526 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB 0 -1 3298 3 1 85
+>M rb_append_tb_cnd_CB ProeWin2 555 1526 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB 0 -1 3298 3 1 85
+>M rb_append_tb_cnd_CB ProeWin2 555 1525 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB 0 -1 279 3 1 40
+>M rb_append_tb_cnd_CB ProeWin2 555 1525 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB 0 -1 279 3 1 40
+>M rb_append_tb_cnd_CB ProeWin2 555 1525 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB 0 -1 279 3 1 40
+>M rb_append_tb_cnd_CB ProeWin2 555 1525 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB 0 -1 279 3 1 40
+>M rb_append_tb_cnd_CB ProeWin2 555 1525 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB 0 -1 279 3 1 40
+>M rb_append_tb_cnd_CB ProeWin2 555 1525 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB 0 -1 279 3 1 40
+>M rb_append_tb_cnd_CB ProeWin2 555 1525 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB 0 -1 279 3 1 40
+>M rb_append_tb_cnd_CB ProeWin2 555 1525 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB -1 -1 0 -1 -1
+>M rb_append_tb_cnd_CB ProeWin2 555 1525 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB 0 -1 82 4 1 88
+>M rb_append_tb_cnd_CB ProeWin2 555 1525 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB 0 -1 82 4 1 88
+>M rb_append_tb_cnd_CB ProeWin2 555 1525 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB 0 -1 82 4 1 88
+>M rb_append_tb_cnd_CB ProeWin2 555 1525 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB 0 -1 82 4 1 88
+>M rb_append_tb_cnd_CB ProeWin2 555 1525 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB 0 -1 82 4 1 88
+>M rb_append_tb_cnd_CB ProeWin2 555 1525 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB 0 -1 82 4 1 88
+>M rb_append_tb_cnd_CB ProeWin2 555 1525 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB 0 -1 82 4 1 88
+>M rb_append_tb_cnd_CB ProeWin2 555 1525 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB 0 -1 82 4 1 88
+>M rb_append_tb_cnd_CB ProeWin2 555 1525 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB 0 -1 82 4 1 88
+>M rb_append_tb_cnd_CB ProeWin2 555 1525 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB 0 -1 82 4 1 88
+>M rb_append_tb_cnd_CB ProeWin2 555 1525 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB 0 -1 82 4 1 88
+>M rb_append_tb_cnd_CB ProeWin2 555 1525 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB 0 -1 82 4 1 88
+>M rb_loop_touch_tt_ch ProeWin2 1227 760 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@SELECT_3D_GEOM 2 0 1 88 4 82 -1 0.0000000000 0.0000000000 0.250000 0.250000 -0.250000
+~ LButtonArm `main_dlg_cur` `proe_win` 9 1227 760 0 1 2927 1526 3840 2160 363990
+>M rb_append_tb_cnd_CB ProeWin2 555 1525 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB 0 -1 82 4 1 88
+!Dragger (SKETCHER_LOOP_DRAGGER) start dragging
+!%CIWhen a constraint is active, right click to cycle through lock/disable/enable the constraint. Use Tab key to toggle active constraint. Press and hold Shift to disable snapping to new constraints.
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 1227 760 0 0 2927 1526 3840 2160 364089
+0.469815 0.385929 N 0 1.808592593 2
+~ Move `main_dlg_cur` `proe_win` 9 1227 761 0 1024 2927 1526 3840 2160 364269
+>M rb_append_tb_cnd_CB ProeWin2 555 1525 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB 0 -1 82 4 1 88
+>M rb_append_tb_cnd_CB ProeWin2 555 1525 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB -1 -1 0 -1 -1
+>M rb_append_tb_cnd_CB ProeWin2 555 1525 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB 0 -1 279 3 1 40
+>M rb_append_tb_cnd_CB ProeWin2 555 1525 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB 0 -1 85 3 1 88
+>M rb_append_tb_cnd_CB ProeWin2 556 1525 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB -1 -1 0 -1 -1
+>M rb_append_tb_cnd_CB ProeWin2 556 1525 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB 0 -1 3313 3 1 85
+>M rb_append_tb_cnd_CB ProeWin2 556 1525 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB 0 -1 3313 3 1 85
+>M rb_append_tb_cnd_CB ProeWin2 556 1525 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB -1 -1 0 -1 -1
+>M rb_append_tb_cnd_CB ProeWin2 556 1526 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB 0 -1 189 3 1 88
+>M rb_append_tb_cnd_CB ProeWin2 556 1526 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB 0 -1 541 55 1 90
+>M rb_append_tb_cnd_CB ProeWin2 556 1526 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB 0 -1 398 3 1 40
+>M rb_append_tb_cnd_CB ProeWin2 556 1526 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB -1 -1 0 -1 -1
+~ MButtonArm `main_dlg_cur` `proe_win` 9 1517 940 0 2 2927 1526 3840 2160 364779
+~ MButtonDisarm `main_dlg_cur` `proe_win` 9 1517 940 0 0 2927 1526 3840 2160 364905
+** 0.529581 0.383355 2 4 4
+0.535493 0.345164 M 0 1.808592593 2
+!%CPSelect start point.
+!%CIWhen a constraint is active, right click to cycle through lock/disable/enable the constraint. Use Tab key to toggle active constraint. Press and hold Shift to disable snapping to new constraints.
+~ Move `main_dlg_cur` `proe_win` 9 1522 944 0 1536 2927 1526 3840 2160 364960
+>M rb_append_tb_cnd_CB ProeWin2 556 1526 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB 0 -1 3160 3 1 85
+>M rb_append_tb_cnd_CB ProeWin2 556 1526 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB 0 -1 3160 3 1 85
+>M rb_append_tb_cnd_CB ProeWin2 556 1526 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB 0 -1 3160 3 1 85
+>M rb_append_tb_cnd_CB ProeWin2 556 1526 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB 0 -1 3160 3 1 85
+>M rb_append_tb_cnd_CB ProeWin2 556 1526 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB -1 -1 0 -1 -1
+>M rb_append_tb_cnd_CB ProeWin2 556 1526 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB 0 -1 3160 3 1 85
+>M rb_append_tb_cnd_CB ProeWin2 556 1525 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB -1 -1 0 -1 -1
+>M rb_append_tb_cnd_CB ProeWin2 556 1524 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB 0 -1 189 3 1 89
+>M rb_append_tb_cnd_CB ProeWin2 556 1524 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB -1 -1 0 -1 -1
+>M rb_append_tb_cnd_CB ProeWin2 556 1524 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB 0 -1 3319 3 1 86
+>M rb_append_tb_cnd_CB ProeWin2 556 1524 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB 0 -1 3319 3 1 86
+>M rb_append_tb_cnd_CB ProeWin2 557 1523 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB 0 -1 190 3 1 89
+>M rb_append_tb_cnd_CB ProeWin2 557 1523 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB -1 -1 0 -1 -1
+>M rb_append_tb_cnd_CB ProeWin2 557 1523 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB 0 -1 3319 3 1 86
+>M rb_append_tb_cnd_CB ProeWin2 557 1523 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB 0 -1 3319 3 1 86
+>M rb_append_tb_cnd_CB ProeWin2 557 1523 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB 0 -1 3319 3 1 86
+>M rb_append_tb_cnd_CB ProeWin2 557 1523 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB 0 -1 3319 3 1 86
+>M rb_append_tb_cnd_CB ProeWin2 557 1523 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB -1 -1 0 -1 -1
+>M rb_append_tb_cnd_CB ProeWin2 557 1523 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB 0 -1 203 3 1 91
+>M rb_append_tb_cnd_CB ProeWin2 557 1523 c0 0 2927 0 0 1526 3840 0 0 2160 13
+@RB_ABSORB_TB -1 -1 0 -1 -1
+~ Command `ProCmdSketDimension`  1
+~ LButtonArm `main_dlg_cur` `proe_win` 9 733 913 0 1 2927 1526 3840 2160 367952
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 733 913 0 0 2927 1526 3840 2160 368031
+@ sel view 0
+ 103.343883 -0.000000 -2.174322 -2.174322 -0.000000 -103.343883
+ 0.000000 103.366754 -0.000000 105.632955 276.320720 -2017.441199 2.441406 0.000000 0
+@ stack attr 8
+@ sel2d 0 LINE -1992 
+3 4
+@ sel2d 0 LINE -1992 
+3 4
+@ stack idx 0
+@SEL_REC 0 [] 7 4 33 (0.2852566666 1.0000000000) (357.9370937090 351.5047903014 0.0000000000)
+!Line
+~ Move `main_dlg_cur` `proe_win` 9 751 930 16777216 0 2927 1526 3840 2160 368452
+~ LButtonArm `main_dlg_cur` `proe_win` 9 837 970 16777216 1 2927 1526 3840 2160 369637
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 837 970 16777216 0 2927 1526 3840 2160 369711
+~ Move `main_dlg_cur` `proe_win` 9 779 962 0 0 2927 1526 3840 2160 370349
+~ LButtonArm `main_dlg_cur` `proe_win` 9 681 980 0 1 2927 1526 3840 2160 371401
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 681 980 0 0 2927 1526 3840 2160 371477
+@ sel view 0
+ 103.343883 -0.000000 -2.174322 -2.174322 -0.000000 -103.343883
+ 0.000000 103.366754 -0.000000 105.632955 276.320720 -2017.441199 2.441406 0.000000 0
+@ stack attr 8
+@ stack idx 0
+@SEL_REC 1 [85] 2 4 -1 (0.0000000000 0.0000000000) (-0.3141230442 0.0000000000 1.2306513671)
+!TOP:F2(DATUM PLANE):GEAR
+~ MButtonArm `main_dlg_cur` `proe_win` 9 834 932 0 2 2927 1526 3840 2160 372232
+~ MButtonDisarm `main_dlg_cur` `proe_win` 9 834 932 0 0 2927 1526 3840 2160 372341
+** 0.151939 0.388598 2 4 4
+0.380811 0.346975 M 0 1.808592593 2
+@ dimtype
+ 10
+!%CPThe highlighted 2 constraint(s) and 1 dimension(s) conflict. Select one to delete or convert.
+~ Activate `resolve_dim_dg` `DeleteButton`
+~ Command `ProCmdSketQuit` 
+!%CPConfirm request to quit.
+! Message Dialog: Warning
+!               : Do you want to quit Sketcher?
+!               : Modifications made inside Sketcher will not be saved.
+~ FocusIn `UI Message Dialog` `yes`
+~ Activate `UI Message Dialog` `yes`
+!ODUI session finished.
+~ Wheel `main_dlg_cur` `proe_win` 9 1097 774 393216 0 2927 1526 3840 2160 403798
+~ Wheel `main_dlg_cur` `proe_win` 9 1090 775 393216 512 2927 1526 3840 2160 403813
+~ Wheel `main_dlg_cur` `proe_win` 9 1087 775 393216 512 2927 1526 3840 2160 403830
+~ Wheel `main_dlg_cur` `proe_win` 9 1087 775 393216 0 2927 1526 3840 2160 403932
+~ Wheel `main_dlg_cur` `proe_win` 9 1133 774 393216 0 2927 1526 3840 2160 404222
+~ MButtonArm `main_dlg_cur` `proe_win` 9 1132 752 0 2 2927 1526 3840 2160 404248
+~ Move `main_dlg_cur` `proe_win` 9 1130 744 0 1538 2927 1526 3840 2160 404254
+~ Move `main_dlg_cur` `proe_win` 9 1125 733 0 1538 2927 1526 3840 2160 404259
+~ Move `main_dlg_cur` `proe_win` 9 1118 708 0 1538 2927 1526 3840 2160 404279
+~ Move `main_dlg_cur` `proe_win` 9 1116 683 0 1538 2927 1526 3840 2160 404295
+~ Move `main_dlg_cur` `proe_win` 9 1112 662 0 1538 2927 1526 3840 2160 404312
+~ Move `main_dlg_cur` `proe_win` 9 1109 640 0 1538 2927 1526 3840 2160 404328
+~ Move `main_dlg_cur` `proe_win` 9 1109 627 0 1026 2927 1526 3840 2160 404345
+~ Move `main_dlg_cur` `proe_win` 9 1110 605 0 1538 2927 1526 3840 2160 404362
+~ Move `main_dlg_cur` `proe_win` 9 1112 589 0 1538 2927 1526 3840 2160 404379
+~ Move `main_dlg_cur` `proe_win` 9 1117 568 0 1538 2927 1526 3840 2160 404395
+~ Move `main_dlg_cur` `proe_win` 9 1121 540 0 1538 2927 1526 3840 2160 404412
+~ Move `main_dlg_cur` `proe_win` 9 1130 520 0 1538 2927 1526 3840 2160 404428
+~ Move `main_dlg_cur` `proe_win` 9 1136 504 0 1538 2927 1526 3840 2160 404445
+~ Move `main_dlg_cur` `proe_win` 9 1139 495 0 1538 2927 1526 3840 2160 404462
+~ Move `main_dlg_cur` `proe_win` 9 1139 492 0 1026 2927 1526 3840 2160 404479
+~ MButtonDisarm `main_dlg_cur` `proe_win` 9 1141 492 0 512 2927 1526 3840 2160 404495
+~ LButtonArm `main_dlg_cur` `proe_win` 9 2103 582 0 1 2927 1526 3840 2160 405046
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 2103 582 0 0 2927 1526 3840 2160 405115
+@ sel view 0
+ 102.776354 -4.286977 10.165075 6.417816 100.701920 -22.419203
+ -8.973214 22.922278 100.392910 125.258557 384.996480 -1850.681596 0.800000 0.000000 0
+@ stack attr 8
+@ stack attr twk_s_eps
+~ LButtonArm `main_dlg_cur` `proe_win` 9 2103 582 0 129 2927 1526 3840 2160 405187
+** 0.853590 0.617955 2 64 64
+1.133175 0.515263 E 0 1.808592593 2
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 2103 582 0 0 2927 1526 3840 2160 405266
+~ Move `main_dlg_cur` `proe_win` 9 2029 547 33554432 0 2927 1526 3840 2160 405891
+>M Chain_oa_sel_CB ProeWin2 2029 547 c0 20000 2927 0 0 1526 3840 0 0 2160 13
+>M RefselMouseMoveCB ProeWin2 2029 547 c0 20000 2927 0 0 1526 3840 0 0 2160 13
+~ Key `main_dlg_cur` `proe_win` 9 2029 547 38993939 0 2927 1526 3840 2160 405891 `Ctrl+S`
+~ Command `ProCmdModelSave` 
+!%CIGRIPPER has been saved.
+~ Move `main_dlg_cur` `proe_win` 9 2029 547 0 0 2927 1526 3840 2160 406601
+>M Chain_oa_sel_CB ProeWin2 2029 547 c0 0 2927 0 0 1526 3840 0 0 2160 13
+~ LButtonArm `main_dlg_cur` `proe_win` 9 2209 821 0 1 2927 1526 3840 2160 407553
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 2209 821 0 0 2927 1526 3840 2160 407621
+@ sel view 0
+ 102.776354 -4.286977 10.165075 6.417816 100.701920 -22.419203
+ -8.973214 22.922278 100.392910 125.258557 384.996480 -1850.681596 0.800000 0.000000 0
+@ stack attr 8
+@ stack attr twk_s_eps
+~ LButtonArm `main_dlg_cur` `proe_win` 9 2209 821 0 129 2927 1526 3840 2160 407715
+** 0.912199 0.461337 2 64 64
+1.206437 0.350080 E 0 1.808592593 2
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 2209 821 0 0 2927 1526 3840 2160 407778
+~ Command `ProCmdWinCloseGroup` 
+!Command ProCmdWinClose was pushed from the software.
+! Executed sub-command ProCmdWinCloseAsyn.
+~ LButtonArm `main_dlg_cur` `proe_win` 9 2242 284 0 1 2728 1526 3840 2160 409757
+~ Move `main_dlg_cur` `proe_win` 9 2243 284 0 513 2728 1526 3840 2160 409773
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 2243 284 0 0 2728 1526 3840 2160 409812
+@ sel view 0
+ 2.397829 -7.804019 -38.040996 -23.274600 30.220585 -7.666742
+ 31.085577 23.228931 -2.805949 246.395502 313.771821 -2177.801595 1.382400 0.000000 0
+@ stack attr 8
+@ stack attr twk_s_eps
+~ LButtonArm `main_dlg_cur` `proe_win` 9 2243 284 0 129 2728 1526 3840 2160 409882
+** 0.986013 0.813237 0 64 64
+0.904873 0.520264 E 0 1.808592593 0
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 2243 284 0 0 2728 1526 3840 2160 409951
+~ Move `main_dlg_cur` `proe_win` 9 2243 284 33554432 0 2728 1526 3840 2160 410056
+>M Chain_oa_sel_CB ProeWin0 2243 284 c0 20000 2728 0 0 1526 3840 0 0 2160 13
+>M RefselMouseMoveCB ProeWin0 2243 284 c0 20000 2728 0 0 1526 3840 0 0 2160 13
+~ Key `main_dlg_cur` `proe_win` 9 2206 248 38993939 1536 2728 1526 3840 2160 410469 `Ctrl+S`
+~ Command `ProCmdModelSave` 
+!%CIMAIN_ASSY has been saved.
+~ Move `main_dlg_cur` `proe_win` 9 2203 247 0 0 2728 1526 3840 2160 410854
+>M Chain_oa_sel_CB ProeWin0 2203 247 c0 0 2728 0 0 1526 3840 0 0 2160 13
+~ Command `ProCmdWinCloseGroup` 
+!Command ProCmdWinClose was pushed from the software.
+! Executed sub-command ProCmdWinCloseAsyn.
+!%CIBase window cannot be closed.
+~ LButtonArm `main_dlg_cur` `proe_win` 9 725 704 0 1 2728 1526 3840 2160 412975
+** 0.146687 0.538008 0 1 1
+0.146687 0.453944 L 0 1.808592593 0
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 725 704 0 0 2728 1526 3840 2160 413045
+~ LButtonArm `main_dlg_cur` `proe_win` 9 725 704 0 129 2728 1526 3840 2160 413139
+** 0.146687 0.538008 0 64 64
+0.146687 0.453944 E 0 1.808592593 0
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 725 704 0 0 2728 1526 3840 2160 413218
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdOSExit was pushed from the software.
+! Message Dialog: Warning
+!               : Creo Parametric Student Edition (for educational use only) will terminate and any unsaved work will be lost.
+!               : Do you really want to exit?
+~ FocusIn `UI Message Dialog` `yes`
+~ Activate `UI Message Dialog` `yes`
+!End of Trail File

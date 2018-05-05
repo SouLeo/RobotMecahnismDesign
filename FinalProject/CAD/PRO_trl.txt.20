@@ -1,0 +1,546 @@
+﻿!UI trail file version 1
+!Application name  `PRO`
+! Executed sub-command ProCmdWinCloseAsyn.
+~ Wheel `main_dlg_cur` `proe_win` 9 1543 632 458752 0 2728 1526 3840 2160 154887
+~ Wheel `main_dlg_cur` `proe_win` 9 1697 658 458752 1536 2728 1526 3840 2160 155019
+~ Wheel `main_dlg_cur` `proe_win` 9 1740 668 458752 1536 2728 1526 3840 2160 155054
+~ Wheel `main_dlg_cur` `proe_win` 9 1624 655 458752 512 2728 1526 3840 2160 156619
+~ Wheel `main_dlg_cur` `proe_win` 9 1611 660 458752 1536 2728 1526 3840 2160 156711
+~ Wheel `main_dlg_cur` `proe_win` 9 1611 660 458752 0 2728 1526 3840 2160 156736
+~ LButtonArm `main_dlg_cur` `proe_win` 9 1629 655 0 1 2728 1526 3840 2160 157805
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 1629 655 0 0 2728 1526 3840 2160 157882
+@ sel view 0
+ -13.943857 -3.665296 -28.618665 -8.986302 30.756249 0.439327
+ 27.417307 8.216584 -14.410847 350.702365 286.682304 -1970.013333 9.313226 0.000000 0
+@ stack attr 8
+@ stack attr twk_s_eps
+@ stack idx 0
+@SEL_REC 3 [42 50 98] 2 9117 -1 (5.2617504020 0.8507093993) (-0.7255344232 0.4727810105 0.4441917185)
+!Surf:F5(IMPORT FEATURE):BEVEL
+~ Command `ProCmdOpenModel@PopupMenuGraphicWinStack` 
+< 2 1.666000 1666 0 0 1666 3840 0 0 2160 13
+< 2 0.977000 977 0 0 1000 3840 0 0 2160 13
+< 2 0.977000 977 0 0 998 3840 0 0 2160 13
+< 2 1.832296 3009 0 0 1546 3840 0 0 2160 13
+< 2 1.832296 2847 0 0 1546 3840 0 0 2160 13
+< 2 1.832296 2887 0 0 1546 3840 0 0 2160 13
+< 2 1.832296 2927 0 0 1546 3840 0 0 2160 13
+< 2 2.159407 2927 0 0 1822 3840 0 0 2160 13
+< 2 1.832296 2927 0 0 1546 3840 0 0 2160 13
+< 2 1.820444 2927 0 0 1536 3840 0 0 2160 13
+~ Close `main_dlg_cur` `appl_casc`
+~ Command `ProCmdModelSaveAs` 
+~ Open `file_saveas` `type_option`
+~ Close `file_saveas` `type_option`
+~ Select `file_saveas` `type_option` 1 `db_549`
+~ Activate `file_saveas` `OK`
+!%CI1684 triangles have been written in output file bevel.stl.
+~ Command `ProCmdWinCloseGroup` 
+!Command ProCmdWinClose was pushed from the software.
+! Executed sub-command ProCmdWinCloseAsyn.
+~ Wheel `main_dlg_cur` `proe_win` 9 570 588 393216 0 2728 1526 3840 2160 194055
+~ Wheel `main_dlg_cur` `proe_win` 9 570 596 393216 1024 2728 1526 3840 2160 194104
+~ Wheel `main_dlg_cur` `proe_win` 9 570 600 393216 1024 2728 1526 3840 2160 194121
+~ Wheel `main_dlg_cur` `proe_win` 9 570 601 393216 1024 2728 1526 3840 2160 194138
+~ Wheel `main_dlg_cur` `proe_win` 9 570 607 393216 1024 2728 1526 3840 2160 194244
+~ Wheel `main_dlg_cur` `proe_win` 9 1123 646 458752 0 2728 1526 3840 2160 194626
+~ MButtonArm `main_dlg_cur` `proe_win` 9 1122 646 0 2 2728 1526 3840 2160 194834
+~ Move `main_dlg_cur` `proe_win` 9 1120 646 0 514 2728 1526 3840 2160 194835
+~ Move `main_dlg_cur` `proe_win` 9 1117 651 0 1538 2728 1526 3840 2160 194845
+~ Move `main_dlg_cur` `proe_win` 9 1115 655 0 1538 2728 1526 3840 2160 194854
+~ Move `main_dlg_cur` `proe_win` 9 1113 658 0 1538 2728 1526 3840 2160 194861
+~ Move `main_dlg_cur` `proe_win` 9 1112 664 0 1538 2728 1526 3840 2160 194869
+~ Move `main_dlg_cur` `proe_win` 9 1108 675 0 1538 2728 1526 3840 2160 194888
+~ Move `main_dlg_cur` `proe_win` 9 1106 685 0 1538 2728 1526 3840 2160 194905
+~ Move `main_dlg_cur` `proe_win` 9 1106 689 0 1026 2728 1526 3840 2160 194922
+~ Move `main_dlg_cur` `proe_win` 9 1106 691 0 1026 2728 1526 3840 2160 194938
+~ Move `main_dlg_cur` `proe_win` 9 1106 696 0 1026 2728 1526 3840 2160 194955
+~ Move `main_dlg_cur` `proe_win` 9 1106 700 0 1026 2728 1526 3840 2160 194972
+~ Move `main_dlg_cur` `proe_win` 9 1105 702 0 1538 2728 1526 3840 2160 194988
+~ Move `main_dlg_cur` `proe_win` 9 1103 714 0 1538 2728 1526 3840 2160 195004
+~ Move `main_dlg_cur` `proe_win` 9 1103 722 0 1026 2728 1526 3840 2160 195022
+~ Move `main_dlg_cur` `proe_win` 9 1103 727 0 1026 2728 1526 3840 2160 195038
+~ Move `main_dlg_cur` `proe_win` 9 1103 729 0 1026 2728 1526 3840 2160 195055
+~ Move `main_dlg_cur` `proe_win` 9 1103 732 0 1026 2728 1526 3840 2160 195072
+~ Move `main_dlg_cur` `proe_win` 9 1103 735 0 1026 2728 1526 3840 2160 195088
+~ Move `main_dlg_cur` `proe_win` 9 1103 738 0 1026 2728 1526 3840 2160 195105
+~ Move `main_dlg_cur` `proe_win` 9 1103 741 0 1026 2728 1526 3840 2160 195122
+~ Move `main_dlg_cur` `proe_win` 9 1103 744 0 1026 2728 1526 3840 2160 195138
+~ Move `main_dlg_cur` `proe_win` 9 1103 745 0 1026 2728 1526 3840 2160 195155
+~ Move `main_dlg_cur` `proe_win` 9 1103 747 0 1026 2728 1526 3840 2160 195171
+~ Move `main_dlg_cur` `proe_win` 9 1103 749 0 1026 2728 1526 3840 2160 195188
+~ Move `main_dlg_cur` `proe_win` 9 1103 752 0 1026 2728 1526 3840 2160 195205
+~ Move `main_dlg_cur` `proe_win` 9 1103 754 0 1026 2728 1526 3840 2160 195222
+~ Move `main_dlg_cur` `proe_win` 9 1103 755 0 1026 2728 1526 3840 2160 195238
+~ Move `main_dlg_cur` `proe_win` 9 1103 756 0 1026 2728 1526 3840 2160 195272
+~ Move `main_dlg_cur` `proe_win` 9 1103 758 0 1026 2728 1526 3840 2160 195294
+~ Move `main_dlg_cur` `proe_win` 9 1103 759 0 1026 2728 1526 3840 2160 195326
+~ MButtonDisarm `main_dlg_cur` `proe_win` 9 1103 759 0 0 2728 1526 3840 2160 195390
+~ Wheel `main_dlg_cur` `proe_win` 9 938 695 458752 1536 2728 1526 3840 2160 195772
+~ Wheel `main_dlg_cur` `proe_win` 9 928 686 458752 1536 2728 1526 3840 2160 195808
+~ Wheel `main_dlg_cur` `proe_win` 9 918 682 458752 512 2728 1526 3840 2160 195877
+~ LButtonArm `main_dlg_cur` `proe_win` 9 744 691 0 1 2728 1526 3840 2160 196365
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 744 691 0 0 2728 1526 3840 2160 196444
+@ sel view 0
+ -16.444798 -4.822430 -27.077782 -22.032064 21.194587 9.605787
+ 16.463605 23.546277 -14.192113 386.752380 506.955069 -1998.550707 7.450581 0.000000 0
+@ stack attr 8
+@ stack attr twk_s_eps
+@ stack idx 0
+@SEL_REC 3 [42 50 114] 2 2190 -1 (1.1357479761 3.4820977150) (-0.2679022850 0.1426545843 1.2500000000)
+!Surf:F6(EXTRUDE_1):GEAR
+~ Command `ProCmdOpenModel@PopupMenuGraphicWinStack` 
+< 2 1.666000 1666 0 0 1666 3840 0 0 2160 13
+< 2 0.977000 977 0 0 1000 3840 0 0 2160 13
+< 2 0.977000 977 0 0 998 3840 0 0 2160 13
+< 2 1.832296 3009 0 0 1546 3840 0 0 2160 13
+< 2 1.832296 2847 0 0 1546 3840 0 0 2160 13
+< 2 1.832296 2887 0 0 1546 3840 0 0 2160 13
+< 2 1.832296 2927 0 0 1546 3840 0 0 2160 13
+< 2 2.159407 2927 0 0 1822 3840 0 0 2160 13
+< 2 1.832296 2927 0 0 1546 3840 0 0 2160 13
+< 2 1.820444 2927 0 0 1536 3840 0 0 2160 13
+~ Close `main_dlg_cur` `appl_casc`
+~ Command `ProCmdModelSaveAs` 
+~ Open `file_saveas` `type_option`
+~ Close `file_saveas` `type_option`
+~ Select `file_saveas` `type_option` 1 `db_549`
+~ Activate `file_saveas` `OK`
+!%CI540 triangles have been written in output file gear.stl.
+~ Command `ProCmdWinCloseGroup` 
+!Command ProCmdWinClose was pushed from the software.
+! Executed sub-command ProCmdWinCloseAsyn.
+~ Wheel `main_dlg_cur` `proe_win` 9 918 1022 393216 0 2728 1526 3840 2160 212978
+~ Wheel `main_dlg_cur` `proe_win` 9 958 1308 393216 1536 2728 1526 3840 2160 212990
+~ Wheel `main_dlg_cur` `proe_win` 9 960 1314 393216 1536 2728 1526 3840 2160 213005
+~ Wheel `main_dlg_cur` `proe_win` 9 965 1325 393216 1024 2728 1526 3840 2160 213070
+~ Wheel `main_dlg_cur` `proe_win` 9 1046 1119 458752 0 2728 1526 3840 2160 213467
+~ Wheel `main_dlg_cur` `proe_win` 9 1045 1118 458752 1536 2728 1526 3840 2160 213507
+~ Wheel `main_dlg_cur` `proe_win` 9 1038 1100 458752 1536 2728 1526 3840 2160 213523
+~ LButtonArm `main_dlg_cur` `proe_win` 9 998 523 0 1 2728 1526 3840 2160 214349
+~ Move `main_dlg_cur` `proe_win` 9 1000 523 0 513 2728 1526 3840 2160 214363
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 1000 523 0 0 2728 1526 3840 2160 214421
+@ sel view 0
+ -16.444798 -4.822430 -27.077782 -22.032064 21.194587 9.605787
+ 16.463605 23.546277 -14.192113 386.752380 506.955069 -1998.550707 5.960464 0.000000 0
+@ stack attr 8
+@ stack attr twk_s_eps
+@ stack idx 0
+@SEL_REC 3 [42 50 86] 2 2167 -1 (-0.2509380997 0.0747660097) (-0.2509380997 0.0747660097 -1.5000000000)
+!Surf:F5(IMPORT FEATURE):GEAR2
+~ Command `ProCmdOpenModel@PopupMenuGraphicWinStack` 
+< 2 1.666000 1666 0 0 1666 3840 0 0 2160 13
+< 2 0.977000 977 0 0 1000 3840 0 0 2160 13
+< 2 0.977000 977 0 0 998 3840 0 0 2160 13
+< 2 1.832296 3009 0 0 1546 3840 0 0 2160 13
+< 2 1.832296 2847 0 0 1546 3840 0 0 2160 13
+< 2 1.832296 2887 0 0 1546 3840 0 0 2160 13
+< 2 1.832296 2927 0 0 1546 3840 0 0 2160 13
+< 2 2.159407 2927 0 0 1822 3840 0 0 2160 13
+< 2 1.832296 2927 0 0 1546 3840 0 0 2160 13
+< 2 1.820444 2927 0 0 1536 3840 0 0 2160 13
+~ Close `main_dlg_cur` `appl_casc`
+~ Command `ProCmdModelSaveAs` 
+~ Open `file_saveas` `type_option`
+~ Close `file_saveas` `type_option`
+~ Select `file_saveas` `type_option` 1 `db_549`
+~ Activate `file_saveas` `OK`
+!%CI540 triangles have been written in output file gear2.stl.
+~ LButtonArm `main_dlg_cur` `proe_win` 9 835 1382 0 1 2927 1536 3840 2160 227773
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 835 1382 0 0 2927 1536 3840 2160 227836
+@ sel view 0
+ -217.141322 -23.266780 -12.581495 -12.841873 183.696040 -118.071343
+ 23.124086 -116.466359 -183.714057 337.836931 325.361337 -1961.773234 1.000000 0.000000 0
+@ stack attr 8
+@ stack attr twk_s_eps
+~ LButtonArm `main_dlg_cur` `proe_win` 9 839 1374 0 129 2927 1536 3840 2160 227963
+** 0.156952 0.104818 2 1 1
+0.156952 0.088440 L 0 1.820444444 2
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 839 1374 0 0 2927 1536 3840 2160 228001
+~ Command `ProCmdWinCloseGroup` 
+!Command ProCmdWinClose was pushed from the software.
+! Executed sub-command ProCmdWinCloseAsyn.
+~ Wheel `main_dlg_cur` `proe_win` 9 146 965 393216 0 2728 1526 3840 2160 229771
+~ Wheel `main_dlg_cur` `proe_win` 9 150 966 393216 1536 2728 1526 3840 2160 229808
+~ Wheel `main_dlg_cur` `proe_win` 9 151 969 393216 1536 2728 1526 3840 2160 229897
+~ Wheel `main_dlg_cur` `proe_win` 9 416 902 393216 0 2728 1526 3840 2160 230217
+~ Wheel `main_dlg_cur` `proe_win` 9 417 902 393216 0 2728 1526 3840 2160 230279
+~ Wheel `main_dlg_cur` `proe_win` 9 417 902 393216 0 2728 1526 3840 2160 230351
+~ Wheel `main_dlg_cur` `proe_win` 9 417 902 393216 0 2728 1526 3840 2160 230870
+~ Wheel `main_dlg_cur` `proe_win` 9 417 902 393216 0 2728 1526 3840 2160 230910
+~ Wheel `main_dlg_cur` `proe_win` 9 417 902 458752 0 2728 1526 3840 2160 231334
+~ Wheel `main_dlg_cur` `proe_win` 9 417 902 458752 0 2728 1526 3840 2160 231460
+~ Move `main_dlg_cur` `proe_win` 9 889 872 33554432 0 2728 1526 3840 2160 233913
+>M Chain_oa_sel_CB ProeWin0 889 872 c0 20000 2728 0 0 1526 3840 0 0 2160 13
+>M RefselMouseMoveCB ProeWin0 889 872 c0 20000 2728 0 0 1526 3840 0 0 2160 13
+~ Key `main_dlg_cur` `proe_win` 9 862 867 38993939 1536 2728 1526 3840 2160 234496 `Ctrl+S`
+~ Command `ProCmdModelSave` 
+~ Activate `storage_conflicts` `OK_PushButton`
+!%CIMAIN_ASSY has been saved.
+>M Chain_oa_sel_CB ProeWin0 1688 989 100c0 0 2728 0 0 1526 3840 0 0 2160 13
+~ Wheel `main_dlg_cur` `proe_win` 9 1653 1055 393216 0 2728 1526 3840 2160 236846
+~ Minimize `main_dlg_cur` `main_dlg_cur`
+~ Close `SA_BROWSER_WELCOME_SCREEN` `SA_BROWSER_WELCOME_SCREEN`
+~ Restore `main_dlg_cur` `main_dlg_cur`
+~ Wheel `main_dlg_cur` `proe_win` 9 2303 830 393216 0 2728 1526 3840 2160 740855
+~ Wheel `main_dlg_cur` `proe_win` 9 2050 931 393216 0 2728 1526 3840 2160 740986
+~ Wheel `main_dlg_cur` `proe_win` 9 2046 933 393216 0 2728 1526 3840 2160 741033
+~ Wheel `main_dlg_cur` `proe_win` 9 1193 1111 458752 1536 2728 1526 3840 2160 741466
+~ Wheel `main_dlg_cur` `proe_win` 9 977 1123 458752 0 2728 1526 3840 2160 741568
+~ Wheel `main_dlg_cur` `proe_win` 9 1013 1071 458752 1536 2728 1526 3840 2160 741653
+~ Wheel `main_dlg_cur` `proe_win` 9 1069 994 458752 1536 2728 1526 3840 2160 741685
+~ Wheel `main_dlg_cur` `proe_win` 9 1492 549 458752 1536 2728 1526 3840 2160 742119
+~ Wheel `main_dlg_cur` `proe_win` 9 1684 233 393216 0 2728 1526 3840 2160 742639
+~ Wheel `main_dlg_cur` `proe_win` 9 1734 699 458752 1536 2728 1526 3840 2160 743068
+~ Wheel `main_dlg_cur` `proe_win` 9 1816 679 458752 1536 2728 1526 3840 2160 743157
+~ Wheel `main_dlg_cur` `proe_win` 9 1816 679 458752 0 2728 1526 3840 2160 743185
+~ Wheel `main_dlg_cur` `proe_win` 9 1816 679 458752 0 2728 1526 3840 2160 743208
+~ Wheel `main_dlg_cur` `proe_win` 9 1818 679 458752 0 2728 1526 3840 2160 743234
+~ Wheel `main_dlg_cur` `proe_win` 9 1775 882 393216 0 2728 1526 3840 2160 743848
+~ Wheel `main_dlg_cur` `proe_win` 9 1661 910 393216 1536 2728 1526 3840 2160 743952
+~ Wheel `main_dlg_cur` `proe_win` 9 1634 930 393216 1536 2728 1526 3840 2160 743968
+~ Wheel `main_dlg_cur` `proe_win` 9 1613 949 393216 1536 2728 1526 3840 2160 743985
+~ Wheel `main_dlg_cur` `proe_win` 9 1594 967 393216 1536 2728 1526 3840 2160 744002
+~ Wheel `main_dlg_cur` `proe_win` 9 1574 987 393216 0 2728 1526 3840 2160 744021
+~ Wheel `main_dlg_cur` `proe_win` 9 1566 999 393216 0 2728 1526 3840 2160 744034
+~ Wheel `main_dlg_cur` `proe_win` 9 1554 1030 393216 1536 2728 1526 3840 2160 744098
+~ Wheel `main_dlg_cur` `proe_win` 9 1663 965 458752 1536 2728 1526 3840 2160 744499
+~ Wheel `main_dlg_cur` `proe_win` 9 1663 965 458752 0 2728 1526 3840 2160 744590
+~ Wheel `main_dlg_cur` `proe_win` 9 1663 964 458752 0 2728 1526 3840 2160 744687
+~ Wheel `main_dlg_cur` `proe_win` 9 1663 964 458752 0 2728 1526 3840 2160 744717
+~ Wheel `main_dlg_cur` `proe_win` 9 1663 964 458752 0 2728 1526 3840 2160 744734
+~ Wheel `main_dlg_cur` `proe_win` 9 1757 840 393216 1536 2728 1526 3840 2160 745235
+~ MButtonArm `main_dlg_cur` `proe_win` 9 1764 831 0 2 2728 1526 3840 2160 745270
+~ Move `main_dlg_cur` `proe_win` 9 1777 804 0 1538 2728 1526 3840 2160 745270
+~ Move `main_dlg_cur` `proe_win` 9 1781 791 0 1538 2728 1526 3840 2160 745285
+~ Move `main_dlg_cur` `proe_win` 9 1785 780 0 1538 2728 1526 3840 2160 745301
+~ Move `main_dlg_cur` `proe_win` 9 1788 769 0 1538 2728 1526 3840 2160 745318
+~ Move `main_dlg_cur` `proe_win` 9 1790 764 0 1538 2728 1526 3840 2160 745335
+~ Move `main_dlg_cur` `proe_win` 9 1790 758 0 1026 2728 1526 3840 2160 745351
+~ Move `main_dlg_cur` `proe_win` 9 1790 745 0 1026 2728 1526 3840 2160 745369
+~ Move `main_dlg_cur` `proe_win` 9 1787 730 0 1538 2728 1526 3840 2160 745385
+~ Move `main_dlg_cur` `proe_win` 9 1783 711 0 1538 2728 1526 3840 2160 745402
+~ Move `main_dlg_cur` `proe_win` 9 1779 692 0 1538 2728 1526 3840 2160 745418
+~ Move `main_dlg_cur` `proe_win` 9 1778 686 0 1538 2728 1526 3840 2160 745436
+~ Move `main_dlg_cur` `proe_win` 9 1775 683 0 1538 2728 1526 3840 2160 745455
+~ Move `main_dlg_cur` `proe_win` 9 1773 680 0 1538 2728 1526 3840 2160 745468
+~ Move `main_dlg_cur` `proe_win` 9 1772 677 0 1538 2728 1526 3840 2160 745486
+~ Move `main_dlg_cur` `proe_win` 9 1771 677 0 514 2728 1526 3840 2160 745502
+~ Move `main_dlg_cur` `proe_win` 9 1769 676 0 1538 2728 1526 3840 2160 745519
+~ Move `main_dlg_cur` `proe_win` 9 1768 674 0 1538 2728 1526 3840 2160 745535
+~ MButtonDisarm `main_dlg_cur` `proe_win` 9 1768 674 0 0 2728 1526 3840 2160 745559
+~ MButtonArm `main_dlg_cur` `proe_win` 9 1779 713 0 2 2728 1526 3840 2160 745851
+~ Move `main_dlg_cur` `proe_win` 9 1782 715 0 1538 2728 1526 3840 2160 745852
+~ Move `main_dlg_cur` `proe_win` 9 1782 717 0 1026 2728 1526 3840 2160 745875
+~ Move `main_dlg_cur` `proe_win` 9 1783 718 0 1538 2728 1526 3840 2160 745880
+~ Move `main_dlg_cur` `proe_win` 9 1783 720 0 1026 2728 1526 3840 2160 745888
+~ Move `main_dlg_cur` `proe_win` 9 1783 723 0 1026 2728 1526 3840 2160 745897
+~ Move `main_dlg_cur` `proe_win` 9 1783 728 0 1026 2728 1526 3840 2160 745906
+~ Move `main_dlg_cur` `proe_win` 9 1789 747 0 1538 2728 1526 3840 2160 745937
+~ Move `main_dlg_cur` `proe_win` 9 1791 758 0 1538 2728 1526 3840 2160 745955
+~ Move `main_dlg_cur` `proe_win` 9 1796 774 0 1538 2728 1526 3840 2160 745971
+~ Move `main_dlg_cur` `proe_win` 9 1798 785 0 1538 2728 1526 3840 2160 745986
+~ Move `main_dlg_cur` `proe_win` 9 1802 796 0 1538 2728 1526 3840 2160 746003
+~ Move `main_dlg_cur` `proe_win` 9 1805 807 0 1538 2728 1526 3840 2160 746020
+~ Move `main_dlg_cur` `proe_win` 9 1807 813 0 1538 2728 1526 3840 2160 746036
+~ Move `main_dlg_cur` `proe_win` 9 1810 818 0 1538 2728 1526 3840 2160 746053
+~ Move `main_dlg_cur` `proe_win` 9 1813 823 0 1538 2728 1526 3840 2160 746070
+~ Move `main_dlg_cur` `proe_win` 9 1816 827 0 1538 2728 1526 3840 2160 746086
+~ Move `main_dlg_cur` `proe_win` 9 1817 830 0 1538 2728 1526 3840 2160 746102
+~ Move `main_dlg_cur` `proe_win` 9 1817 833 0 1026 2728 1526 3840 2160 746120
+~ Move `main_dlg_cur` `proe_win` 9 1817 834 0 1026 2728 1526 3840 2160 746135
+~ Move `main_dlg_cur` `proe_win` 9 1817 836 0 1026 2728 1526 3840 2160 746152
+~ Move `main_dlg_cur` `proe_win` 9 1817 837 0 1026 2728 1526 3840 2160 746169
+~ MButtonDisarm `main_dlg_cur` `proe_win` 9 1817 837 0 0 2728 1526 3840 2160 746299
+~ Command `PMechCmdAsmDrag` 
+!Mechanism Design Command Script File
+!	Version: 	P_30_44:spg
+!	Platform:	x86e_win64
+!	Created: 	4/20/2018 at 16:22:21
+!%CEThe connection "C50(GRIPPER):Connection_54" of component GEAR.PRT from GRIPPER.ASM with id path [ 42 50 114 ] will be suppressed because of invalid constraint(s).
+!%CWC50(GRIPPER):GearPair1 is not active and hence is excluded from the current analysis.
+!%CWC50(GRIPPER):GearPair2 is not active and hence is excluded from the current analysis.
+!%CWC50(GRIPPER):GearPair3 is not active and hence is excluded from the current analysis.
+~ LButtonArm `main_dlg_cur` `proe_win` 9 1203 561 0 1 2728 1526 3840 2160 749829
+~ Move `main_dlg_cur` `proe_win` 9 1203 561 0 1 2728 1526 3840 2160 749836
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 1203 561 0 0 2728 1526 3840 2160 749888
+@ sel view 0
+ -11.632273 -0.442514 -29.856120 -18.876661 24.935423 6.984973
+ 23.135588 20.122683 -9.312129 305.537432 441.102903 -1973.447950 1.953125 0.000000 0
+@ stack attr 8
+@ stack idx 0
+@SEL_REC 3 [42 41 46] 3 386 -1 (0.2344952502 0.0000000000) (7.3231665611 1.2500000000 0.2500000000)
+!Edge:F9(ROUND_1):LINK2_4BAR
+!%CWC50(GRIPPER):GearPair1 is not active and hence is excluded from the current analysis.
+!%CWC50(GRIPPER):GearPair2 is not active and hence is excluded from the current analysis.
+!%CWC50(GRIPPER):GearPair3 is not active and hence is excluded from the current analysis.
+!%CIPress L mouse button to accept positions; 
+!%C_M mouse button to abort dragging; 
+!%C_R mouse button to abort and finish dragging;
+!%C_and move mouse to drag.
+>M mouseDragCB ProeWin0 1204 559 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1209 552 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1216 534 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1231 491 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1239 469 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1249 450 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1254 439 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1261 408 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1265 369 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1260 310 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1255 277 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1253 256 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1247 209 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1244 199 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1244 196 80 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1243 195 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1242 197 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1242 200 80 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1245 240 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1261 318 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1275 363 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1281 376 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1290 415 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1302 471 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1308 502 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1311 521 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1312 528 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1314 530 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1314 531 80 0 2728 0 0 1526 3840 0 0 2160 13
+~ MButtonArm `main_dlg_cur` `proe_win` 9 1314 531 0 2 2728 1526 3840 2160 751494
+~ Move `main_dlg_cur` `proe_win` 9 1314 531 0 2 2728 1526 3840 2160 751538
+~ MButtonDisarm `main_dlg_cur` `proe_win` 9 1314 531 0 0 2728 1526 3840 2160 751611
+!%CIUndo the snapshot done successfully
+!%CWC50(GRIPPER):GearPair1 is not active and hence is excluded from the current analysis.
+!%CWC50(GRIPPER):GearPair2 is not active and hence is excluded from the current analysis.
+!%CWC50(GRIPPER):GearPair3 is not active and hence is excluded from the current analysis.
+~ Wheel `main_dlg_cur` `proe_win` 9 1257 1134 393216 0 2728 1526 3840 2160 878774
+~ Wheel `main_dlg_cur` `proe_win` 9 1224 1182 393216 1536 2728 1526 3840 2160 878826
+~ Wheel `main_dlg_cur` `proe_win` 9 1208 1215 393216 1536 2728 1526 3840 2160 878910
+~ Wheel `main_dlg_cur` `proe_win` 9 1255 936 458752 0 2728 1526 3840 2160 879347
+~ Wheel `main_dlg_cur` `proe_win` 9 1255 936 458752 0 2728 1526 3840 2160 879382
+~ LButtonArm `main_dlg_cur` `proe_win` 9 1201 820 0 1 2728 1526 3840 2160 881405
+~ Move `main_dlg_cur` `proe_win` 9 1201 820 0 1 2728 1526 3840 2160 881409
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 1201 820 0 0 2728 1526 3840 2160 881492
+@ sel view 0
+ -11.632273 -0.442514 -29.856120 -18.876661 24.935423 6.984973
+ 23.135588 20.122683 -9.312129 305.537432 441.102903 -1973.447950 1.562500 0.000000 0
+@ stack attr 8
+@ stack idx 0
+@SEL_REC 3 [42 41 46] 3 386 -1 (0.2280891434 0.0000000000) (7.3792199956 1.2500000000 0.2500000000)
+!Edge:F9(ROUND_1):LINK2_4BAR
+!%CWC50(GRIPPER):GearPair1 is not active and hence is excluded from the current analysis.
+!%CWC50(GRIPPER):GearPair2 is not active and hence is excluded from the current analysis.
+!%CWC50(GRIPPER):GearPair3 is not active and hence is excluded from the current analysis.
+!%CIPress L mouse button to accept positions; 
+!%C_M mouse button to abort dragging; 
+!%C_R mouse button to abort and finish dragging;
+!%C_and move mouse to drag.
+>M mouseDragCB ProeWin0 1202 819 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1211 808 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1239 749 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1246 733 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1257 704 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1267 670 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1275 652 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1281 639 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1283 626 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1283 619 80 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1284 606 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1284 596 80 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1284 583 80 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1284 577 80 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1284 571 80 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1284 564 80 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1284 553 80 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1286 538 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1286 529 80 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1286 524 80 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1286 526 80 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1286 541 80 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1286 566 80 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1286 570 80 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1286 573 80 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1280 588 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1277 611 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1275 626 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1266 661 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1262 684 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1253 727 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1244 756 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1228 790 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1224 798 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1221 805 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1218 804 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1618 1265 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1591 1286 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1495 1271 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1391 1182 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1284 1056 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1156 890 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1116 811 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1113 807 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1113 806 80 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1149 778 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1305 680 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1311 671 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1320 629 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1324 528 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1317 495 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1310 482 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1298 461 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1295 458 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1295 457 80 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1295 464 80 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1298 482 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1314 537 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1323 572 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1327 589 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1328 662 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1321 717 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1317 737 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1314 752 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1305 773 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1298 787 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1289 807 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1280 829 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1274 867 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1272 900 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1267 921 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1260 935 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1259 941 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1257 940 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1254 932 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1243 861 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1235 775 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1226 725 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1213 679 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1197 634 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1186 601 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1179 579 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1160 527 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1150 501 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1144 493 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1140 485 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1138 485 40 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1138 483 80 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1138 484 80 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1139 496 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1148 526 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1154 543 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1159 559 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1179 612 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1190 654 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1199 677 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1206 696 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1212 714 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1217 730 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1217 740 80 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1217 745 80 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1217 747 80 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1217 746 80 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1216 744 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1212 736 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1212 735 80 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1213 734 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1236 698 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1252 653 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1263 621 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1280 570 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1290 523 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1294 484 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1294 434 80 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1294 412 80 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1290 383 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1287 372 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1287 369 80 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1281 355 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1277 348 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1277 346 80 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1274 338 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1274 339 80 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1297 359 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1318 382 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1343 404 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1370 427 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1402 456 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1424 475 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1437 489 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1447 501 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1460 519 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1503 578 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1531 618 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1537 623 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1550 645 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1565 683 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1572 703 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1582 736 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1592 760 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1600 775 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1601 783 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1606 812 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1614 838 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1617 860 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1619 878 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1619 880 80 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1619 883 80 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1609 903 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1609 904 80 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1608 904 40 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1606 904 40 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1603 902 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1587 890 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1586 888 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1596 835 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 2096 130 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 2096 137 80 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 2095 150 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 2148 196 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 2326 106 200c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 2252 319 100c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 2252 319 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 2222 362 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 2067 575 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1968 764 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1966 767 c0 0 2728 0 0 1526 3840 0 0 2160 13
+~ MButtonArm `main_dlg_cur` `proe_win` 9 1966 767 0 2 2728 1526 3840 2160 1378009
+~ Move `main_dlg_cur` `proe_win` 9 1966 767 0 2 2728 1526 3840 2160 1378077
+~ MButtonDisarm `main_dlg_cur` `proe_win` 9 1966 767 0 0 2728 1526 3840 2160 1378092
+!%CIUndo the snapshot done successfully
+!%CWC50(GRIPPER):GearPair1 is not active and hence is excluded from the current analysis.
+!%CWC50(GRIPPER):GearPair2 is not active and hence is excluded from the current analysis.
+!%CWC50(GRIPPER):GearPair3 is not active and hence is excluded from the current analysis.
+~ Close `newdrag` `newdrag`
+~ Minimize `main_dlg_cur` `main_dlg_cur`
+~ Power `UI Desktop` `UI Desktop` 3
+~ Power `UI Desktop` `UI Desktop` 4
+~ Power `UI Desktop` `UI Desktop` 4
+~ Power `UI Desktop` `UI Desktop` 3
+~ Power `UI Desktop` `UI Desktop` 4
+~ Power `UI Desktop` `UI Desktop` 4
+~ Power `UI Desktop` `UI Desktop` 3
+~ Power `UI Desktop` `UI Desktop` 4
+~ Power `UI Desktop` `UI Desktop` 4
+~ Power `UI Desktop` `UI Desktop` 3
+~ Power `UI Desktop` `UI Desktop` 4
+~ Power `UI Desktop` `UI Desktop` 4
+~ Power `UI Desktop` `UI Desktop` 3
+~ Power `UI Desktop` `UI Desktop` 4
+~ Power `UI Desktop` `UI Desktop` 4
+~ Power `UI Desktop` `UI Desktop` 3
+~ Power `UI Desktop` `UI Desktop` 4
+~ Power `UI Desktop` `UI Desktop` 4
+~ Power `UI Desktop` `UI Desktop` 3
+~ Power `UI Desktop` `UI Desktop` 4
+~ Power `UI Desktop` `UI Desktop` 4
+~ Power `UI Desktop` `UI Desktop` 3
+~ Power `UI Desktop` `UI Desktop` 4
+~ Power `UI Desktop` `UI Desktop` 4
+~ Restore `main_dlg_cur` `main_dlg_cur`
+~ Activate `lic_exitdlg` `Exit`
+! Message Dialog: Warning
+!               : Creo Parametric Student Edition (for educational use only) will terminate and any unsaved work will be lost.
+!               : Do you really want to exit?
+~ FocusIn `UI Message Dialog` `yes`
+~ Activate `UI Message Dialog` `yes`
+!End of Trail File

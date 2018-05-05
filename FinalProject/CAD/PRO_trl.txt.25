@@ -1,0 +1,210 @@
+﻿!UI trail file version 1
+!Application name  `PRO`
+! Executed sub-command ProCmdPmEdit.
+~ FocusOut `pm_analysis_ui` `MotionDefinitionNameTextEntry`
+~ FocusIn `pm_analysis_ui` `durationInput`
+~ Update `pm_analysis_ui` `durationInput` `20`
+~ FocusOut `pm_analysis_ui` `durationInput`
+~ Activate `pm_analysis_ui` `runBtn`
+~ Activate `confirm` `yes_btn`
+!%CIAnalysisDefinition1 started (Position Analysis).
+!%CWC50(GRIPPER):GearPair1 is not active and hence is excluded from the current analysis.
+!%CWC50(GRIPPER):GearPair2 is not active and hence is excluded from the current analysis.
+!%CWC50(GRIPPER):GearPair3 is not active and hence is excluded from the current analysis.
+!%CEAssembly analysis failed for frame 178 at time 17.7000.
+~ Activate `asm_fail_regular` `abort`
+!%CIAnalysisDefinition1 interrupted with 88% complete.
+~ Wheel `main_dlg_cur` `proe_win` 9 869 1013 393216 0 2728 1526 3840 2160 660185
+~ Wheel `main_dlg_cur` `proe_win` 9 872 1016 393216 1536 2728 1526 3840 2160 660229
+~ Activate `pm_analysis_ui` `CancelButton`
+~ LButtonArm `main_dlg_cur` `proe_win` 9 763 545 0 1 2728 1526 3840 2160 667203
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 763 545 0 0 2728 1526 3840 2160 667273
+@ sel view 0
+ -11.201212 -2.133092 -20.168444 -10.776910 20.144033 3.854803
+ 17.180641 11.245053 -10.731156 397.968686 394.531414 -2045.874279 0.618155 0.000000 0
+@ stack attr 8
+@ stack attr twk_s_eps
+@ stack idx 0
+@SEL_REC 3 [42 41 46] 3 386 -1 (0.2979618680 0.0000000000) (6.7678336549 1.2500000000 0.2500000000)
+!Edge:F9(ROUND_1):LINK2_4BAR
+~ Trail `UI Desktop` `UI Desktop` `UIT_TRANSLUCENT` \
+ `NEED_TO_CLOSE`
+~ LButtonArm `main_dlg_cur` `proe_win` 9 366 275 0 1537 2728 1526 3840 2160 668211
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 366 275 0 0 2728 1526 3840 2160 668271
+@ sel view 0
+ -11.201212 -2.133092 -20.168444 -10.776910 20.144033 3.854803
+ 17.180641 11.245053 -10.731156 397.968686 394.531414 -2045.874279 0.618155 0.000000 0
+@ stack attr 8
+@ stack attr twk_s_eps
+~ Command `PMechCmdAsmDrag` 
+!%CWC50(GRIPPER):GearPair1 is not active and hence is excluded from the current analysis.
+!%CWC50(GRIPPER):GearPair2 is not active and hence is excluded from the current analysis.
+!%CWC50(GRIPPER):GearPair3 is not active and hence is excluded from the current analysis.
+~ LButtonArm `main_dlg_cur` `proe_win` 9 749 541 0 1 2728 1526 3840 2160 669877
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 749 541 0 0 2728 1526 3840 2160 669879
+@ sel view 0
+ -11.201212 -2.133092 -20.168444 -10.776910 20.144033 3.854803
+ 17.180641 11.245053 -10.731156 397.968686 394.531414 -2045.874279 0.618155 0.000000 0
+@ stack attr 8
+@ stack idx 0
+@SEL_REC 3 [42 41 46] 3 386 -1 (0.2299531372 0.0000000000) (7.3629100495 1.2500000000 0.2500000000)
+!Edge:F9(ROUND_1):LINK2_4BAR
+!%CWC50(GRIPPER):GearPair1 is not active and hence is excluded from the current analysis.
+!%CWC50(GRIPPER):GearPair2 is not active and hence is excluded from the current analysis.
+!%CWC50(GRIPPER):GearPair3 is not active and hence is excluded from the current analysis.
+!%CIPress L mouse button to accept positions; 
+!%C_M mouse button to abort dragging; 
+!%C_R mouse button to abort and finish dragging;
+!%C_and move mouse to drag.
+>M mouseDragCB ProeWin0 743 579 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 802 710 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 817 715 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 836 722 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 858 729 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 888 743 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 910 750 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 930 758 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 958 772 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 984 784 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1018 792 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1044 796 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1057 797 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1063 797 40 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1071 794 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1074 792 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1091 773 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1100 756 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1107 737 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1113 725 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1120 714 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1121 703 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1118 690 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1115 683 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1109 677 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1105 673 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1099 666 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1093 652 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1085 634 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1086 615 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1103 587 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1127 561 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1138 539 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1151 519 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1166 504 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1174 491 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1174 489 80 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1173 489 40 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1169 489 40 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1144 500 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1117 527 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1111 555 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1111 581 80 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1126 636 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1146 700 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1170 758 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1189 790 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1193 796 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1193 798 80 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1190 797 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1205 750 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1252 562 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1281 397 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1272 309 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1254 291 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1247 293 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1242 310 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1249 341 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1321 371 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1843 377 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 2463 260 200c0 0 2728 0 0 1526 3840 0 0 2160 13
+~ Activate `newdrag` `CloseButton`
+~ Wheel `main_dlg_cur` `proe_win` 9 1040 808 458752 0 2728 1526 3840 2160 673589
+~ Wheel `main_dlg_cur` `proe_win` 9 1027 815 458752 1536 2728 1526 3840 2160 673659
+~ Wheel `main_dlg_cur` `proe_win` 9 1019 817 458752 512 2728 1526 3840 2160 673742
+~ LButtonArm `main_dlg_cur` `proe_win` 9 724 466 0 1 2728 1526 3840 2160 675611
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 724 466 0 0 2728 1526 3840 2160 675654
+@ sel view 0
+ -17.746359 -3.379511 -31.953369 -17.074128 31.914693 6.107260
+ 27.219718 17.815818 -17.001639 338.349246 378.553875 -2302.915567 1.207334 0.000000 0
+@ stack attr 8
+@ stack attr twk_s_eps
+@ stack idx 0
+@SEL_REC 0 [] 262 22 -1 (3.0000000000 0.0000000000) (-178.3943557801 -49.5991599910 100.9223351663)
+!Connection_21.first_rot_axis
+~ Trail `UI Desktop` `UI Desktop` `UIT_TRANSLUCENT` \
+ `NEED_TO_CLOSE`
+~ Command `PMechCmdAsmDrag` 
+!%CWC50(GRIPPER):GearPair1 is not active and hence is excluded from the current analysis.
+!%CWC50(GRIPPER):GearPair2 is not active and hence is excluded from the current analysis.
+!%CWC50(GRIPPER):GearPair3 is not active and hence is excluded from the current analysis.
+~ LButtonArm `main_dlg_cur` `proe_win` 9 715 438 0 1 2728 1526 3840 2160 677906
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 715 438 0 0 2728 1526 3840 2160 677907
+@ sel view 0
+ -17.746359 -3.379511 -31.953369 -17.074128 31.914693 6.107260
+ 27.219718 17.815818 -17.001639 338.349246 378.553875 -2302.915567 1.207334 0.000000 0
+@ stack attr 8
+@ stack idx 0
+@SEL_REC 3 [42 41 46] 3 386 -1 (0.6598573854 0.0000000000) (3.6012478774 1.2500000000 0.2500000000)
+!Edge:F9(ROUND_1):LINK2_4BAR
+!%CWC50(GRIPPER):GearPair1 is not active and hence is excluded from the current analysis.
+!%CWC50(GRIPPER):GearPair2 is not active and hence is excluded from the current analysis.
+!%CWC50(GRIPPER):GearPair3 is not active and hence is excluded from the current analysis.
+!%CIPress L mouse button to accept positions; 
+!%C_M mouse button to abort dragging; 
+!%C_R mouse button to abort and finish dragging;
+!%C_and move mouse to drag.
+>M mouseDragCB ProeWin0 838 349 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 976 240 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 978 239 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 978 238 80 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 978 230 80 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 979 218 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 984 209 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 995 201 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1051 190 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1240 194 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1509 221 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1639 243 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1654 255 c0 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1654 259 80 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1654 261 80 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1654 262 80 0 2728 0 0 1526 3840 0 0 2160 13
+>M mouseDragCB ProeWin0 1657 264 c0 0 2728 0 0 1526 3840 0 0 2160 13
+~ LButtonArm `main_dlg_cur` `proe_win` 9 1657 264 0 1 2728 1526 3840 2160 678681
+~ Move `main_dlg_cur` `proe_win` 9 1658 265 0 1537 2728 1526 3840 2160 678715
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 1658 265 0 0 2728 1526 3840 2160 678749
+~ Activate `newdrag` `CloseButton`
+~ Command `ProCmdUtilAppAsmExit` 
+~ Activate `pmsaveresults` `no_save_exit_btn`
+~ Wheel `main_dlg_cur` `proe_win` 9 912 840 393216 0 2728 1526 3840 2160 683896
+~ Wheel `main_dlg_cur` `proe_win` 9 1016 748 458752 1536 2728 1526 3840 2160 684370
+~ Wheel `main_dlg_cur` `proe_win` 9 1007 736 458752 1536 2728 1526 3840 2160 684485
+~ Wheel `main_dlg_cur` `proe_win` 9 1008 733 393216 0 2728 1526 3840 2160 684674
+~ Wheel `main_dlg_cur` `proe_win` 9 1016 735 393216 1536 2728 1526 3840 2160 684820
+~ LButtonArm `main_dlg_cur` `proe_win` 9 932 878 0 1 2728 1526 3840 2160 686883
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 932 878 0 0 2728 1526 3840 2160 686939
+@ sel view 0
+ -18.263671 -3.478025 -32.884819 -17.571844 32.845017 6.285289
+ 28.013181 18.335155 -17.497242 333.637075 377.291050 -2125.670281 0.965867 0.000000 0
+@ stack attr 8
+@ stack attr twk_s_eps
+@ stack idx 0
+@SEL_REC 3 [42 41 47] 3 386 -1 (0.2134553300 0.0000000000) (7.5072658621 1.2500000000 0.2500000000)
+!Edge:F9(ROUND_1):LINK2_4BAR
+~ Trail `UI Desktop` `UI Desktop` `UIT_TRANSLUCENT` \
+ `NEED_TO_CLOSE`
+~ LButtonArm `main_dlg_cur` `proe_win` 9 1765 655 0 1 2728 1526 3840 2160 687967
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 1765 655 0 0 2728 1526 3840 2160 688031
+@ sel view 0
+ -18.263671 -3.478025 -32.884819 -17.571844 32.845017 6.285289
+ 28.013181 18.335155 -17.497242 333.637075 377.291050 -2125.670281 0.965867 0.000000 0
+@ stack attr 8
+@ stack attr twk_s_eps
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdOSExit was pushed from the software.
+! Message Dialog: Warning
+!               : Creo Parametric Student Edition (for educational use only) will terminate and any unsaved work will be lost.
+!               : Do you really want to exit?
+~ FocusIn `UI Message Dialog` `yes`
+~ Activate `UI Message Dialog` `yes`
+!End of Trail File

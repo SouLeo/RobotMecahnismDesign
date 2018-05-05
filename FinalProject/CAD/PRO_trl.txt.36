@@ -1,0 +1,131 @@
+﻿!UI trail file version 1
+!Application name  `PRO`
+! Executed sub-command ProCmdWinCloseAsyn.
+~ Command `ProCmdModelOpen` 
+< 2 0.118519 178 0 0 100 3840 0 0 2160 13
+~ Trail `UI Desktop` `UI Desktop` `DLG_PREVIEW_POST` \
+ `file_open`
+~ Select `file_open` `Ph_list.Filelist` 1 `square_in.prt`
+~ Activate `file_open` `Ph_list.Filelist` 1 `square_in.prt`
+!Command ProCmdModelOpenExe was pushed from the software.
+< 2 1.666000 1666 0 0 1666 3840 0 0 2160 13
+< 2 0.977000 977 0 0 1000 3840 0 0 2160 13
+< 2 0.977000 977 0 0 998 3840 0 0 2160 13
+< 2 1.832296 3009 0 0 1546 3840 0 0 2160 13
+< 2 1.832296 2847 0 0 1546 3840 0 0 2160 13
+< 2 1.832296 2887 0 0 1546 3840 0 0 2160 13
+< 2 1.832296 2927 0 0 1546 3840 0 0 2160 13
+! 1-May-18 17:14:04  Start C:\Users\Lucas\Desktop\ME380R RMD\FINAL_PROJECT\Final2\square_in.prt.10
+! 1-May-18 17:14:04  End   C:\Users\Lucas\Desktop\ME380R RMD\FINAL_PROJECT\Final2\square_in.prt.10
+< 2 2.159407 2927 0 0 1822 3840 0 0 2160 13
+< 2 1.832296 2927 0 0 1546 3840 0 0 2160 13
+< 2 1.820444 2927 0 0 1536 3840 0 0 2160 13
+~ Activate `main_dlg_cur` `page_Analysis_control_btn` 1
+~ Command `ProCmdNaMeasureDistance` 
+!ODUI external UI session start for device : nmd_1 
+!%CPSelect the first reference for the Distance analysis
+~ Wheel `main_dlg_cur` `proe_win` 9 1877 736 458752 0 2927 1536 3840 2160 3434027
+~ Wheel `main_dlg_cur` `proe_win` 9 1880 704 458752 1024 2927 1536 3840 2160 3434157
+~ Wheel `main_dlg_cur` `proe_win` 9 1874 699 458752 1536 2927 1536 3840 2160 3434274
+~ LButtonArm `main_dlg_cur` `proe_win` 9 1807 591 0 1 2927 1536 3840 2160 3434628
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 1807 591 0 0 2927 1536 3840 2160 3434662
+@ sel view 0
+ 451.987161 -26.437777 -11.511580 28.395060 439.553407 105.405829
+ 5.019271 -105.913701 440.319158 238.348477 89.880022 -1870.929741 1.953125 0.000000 0
+@ stack attr 8
+@ stack attr twk_s_eps
+@ stack idx 0
+@SEL_REC 0 [] 2 104 -1 (1.4601029750 0.1759587212) (1.0930957853 0.6921174840 0.5740412788)
+!Surf:F8(HOLE_1_2)
+!%CEThis measurement cannot be performed for the given set of references
+!%CPSelect the second reference for the Distance analysis
+~ Wheel `main_dlg_cur` `proe_win` 9 1893 626 393216 0 2927 1536 3840 2160 3434985
+~ Wheel `main_dlg_cur` `proe_win` 9 1893 626 393216 0 2927 1536 3840 2160 3435005
+~ Wheel `main_dlg_cur` `proe_win` 9 1896 629 393216 1536 2927 1536 3840 2160 3435021
+~ Wheel `main_dlg_cur` `proe_win` 9 1902 636 393216 1536 2927 1536 3840 2160 3435106
+~ Wheel `main_dlg_cur` `proe_win` 9 1783 728 458752 0 2927 1536 3840 2160 3435551
+~ Wheel `main_dlg_cur` `proe_win` 9 1769 737 458752 1536 2927 1536 3840 2160 3435646
+~ Move `main_dlg_cur` `proe_win` 9 971 677 33554432 0 2927 1536 3840 2160 3436019
+~ LButtonArm `main_dlg_cur` `proe_win` 9 919 638 33554432 1 2927 1536 3840 2160 3436367
+~ LButtonDisarm `main_dlg_cur` `proe_win` 9 919 638 33554432 0 2927 1536 3840 2160 3436465
+@ sel view 0
+ 451.987161 -26.437777 -11.511580 28.395060 439.553407 105.405829
+ 5.019271 -105.913701 440.319158 238.348477 89.880022 -1870.929741 1.250000 0.000000 0
+@ stack attr 8
+@ stack attr twk_s_eps
+@ stack idx 0
+@SEL_REC 0 [] 2 75 -1 (1.0697309405 0.2619115149) (0.1299774856 0.6848169557 0.4880884851)
+!Surf:F7(HOLE_1_1)
+!%CDDistance = 0.940000 in
+!%CIAdvanced Measure analysis completed successfully.
+!%CPSelect reference(s) for Measure Distance analysis
+~ Move `main_dlg_cur` `proe_win` 9 919 638 0 0 2927 1536 3840 2160 3436791
+~ Close `nmd_1` `nmd_1`
+!ODUI external UI session stop. 
+~ MButtonArm `main_dlg_cur` `proe_win` 9 930 659 0 2 2927 1536 3840 2160 3442345
+~ Move `main_dlg_cur` `proe_win` 9 932 665 0 1538 2927 1536 3840 2160 3442351
+~ Move `main_dlg_cur` `proe_win` 9 934 670 0 1538 2927 1536 3840 2160 3442357
+~ Move `main_dlg_cur` `proe_win` 9 935 676 0 1538 2927 1536 3840 2160 3442365
+~ Move `main_dlg_cur` `proe_win` 9 941 692 0 1538 2927 1536 3840 2160 3442383
+~ Move `main_dlg_cur` `proe_win` 9 945 705 0 1538 2927 1536 3840 2160 3442400
+~ Move `main_dlg_cur` `proe_win` 9 949 714 0 1538 2927 1536 3840 2160 3442417
+~ Move `main_dlg_cur` `proe_win` 9 952 725 0 1538 2927 1536 3840 2160 3442433
+~ Move `main_dlg_cur` `proe_win` 9 956 736 0 1538 2927 1536 3840 2160 3442450
+~ Move `main_dlg_cur` `proe_win` 9 960 752 0 1538 2927 1536 3840 2160 3442467
+~ Move `main_dlg_cur` `proe_win` 9 963 761 0 1538 2927 1536 3840 2160 3442483
+~ Move `main_dlg_cur` `proe_win` 9 967 772 0 1538 2927 1536 3840 2160 3442499
+~ Move `main_dlg_cur` `proe_win` 9 971 785 0 1538 2927 1536 3840 2160 3442516
+~ Move `main_dlg_cur` `proe_win` 9 974 796 0 1538 2927 1536 3840 2160 3442533
+~ Move `main_dlg_cur` `proe_win` 9 976 801 0 1538 2927 1536 3840 2160 3442549
+~ Move `main_dlg_cur` `proe_win` 9 977 804 0 1538 2927 1536 3840 2160 3442566
+~ Move `main_dlg_cur` `proe_win` 9 977 805 0 1026 2927 1536 3840 2160 3442583
+~ Move `main_dlg_cur` `proe_win` 9 979 807 0 1538 2927 1536 3840 2160 3442600
+~ Move `main_dlg_cur` `proe_win` 9 979 808 0 1026 2927 1536 3840 2160 3442617
+~ Move `main_dlg_cur` `proe_win` 9 979 809 0 1026 2927 1536 3840 2160 3442634
+~ Move `main_dlg_cur` `proe_win` 9 982 805 0 1538 2927 1536 3840 2160 3443176
+~ Move `main_dlg_cur` `proe_win` 9 988 794 0 1538 2927 1536 3840 2160 3443199
+~ Move `main_dlg_cur` `proe_win` 9 993 786 0 1538 2927 1536 3840 2160 3443218
+~ Move `main_dlg_cur` `proe_win` 9 995 783 0 1538 2927 1536 3840 2160 3443232
+~ Move `main_dlg_cur` `proe_win` 9 998 780 0 1538 2927 1536 3840 2160 3443247
+~ Move `main_dlg_cur` `proe_win` 9 1000 779 0 1538 2927 1536 3840 2160 3443264
+~ MButtonDisarm `main_dlg_cur` `proe_win` 9 1000 779 0 0 2927 1536 3840 2160 3444606
+** 0.245392 0.492187 2 4 4
+0.308969 0.383629 M 0 1.820444444 2
+~ Power `UI Desktop` `UI Desktop` 3
+~ Power `UI Desktop` `UI Desktop` 4
+~ Power `UI Desktop` `UI Desktop` 5
+! Message Dialog: Info
+!               : Unsaved data may have been lost.
+~ Power `UI Desktop` `UI Desktop` 3
+~ Power `UI Desktop` `UI Desktop` 4
+~ Power `UI Desktop` `UI Desktop` 4
+~ Power `UI Desktop` `UI Desktop` 3
+~ Power `UI Desktop` `UI Desktop` 4
+~ Power `UI Desktop` `UI Desktop` 4
+~ Power `UI Desktop` `UI Desktop` 3
+~ Power `UI Desktop` `UI Desktop` 4
+~ Power `UI Desktop` `UI Desktop` 4
+~ Power `UI Desktop` `UI Desktop` 3
+~ Power `UI Desktop` `UI Desktop` 4
+~ Power `UI Desktop` `UI Desktop` 4
+~ Power `UI Desktop` `UI Desktop` 3
+~ Power `UI Desktop` `UI Desktop` 4
+~ Power `UI Desktop` `UI Desktop` 4
+~ Activate `UI Message Dialog` `ok`
+~ Activate `lic_exitdlg` `Exit`
+~ Activate `lic_exitdlg` `Retry`
+!%CIRegained CREOPMA_Student3 license; you can resume working.
+!%CIRegained floating license; you can resume working.
+~ Activate `warning` `Ok`
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdWinOSCloseAsyn was pushed from the software.
+!Command ProCmdWinClose was pushed from the software.
+~ Close `main_dlg_cur` `main_dlg_cur`
+!Command ProCmdOSExit was pushed from the software.
+! Message Dialog: Warning
+!               : Creo Parametric Student Edition (for educational use only) will terminate and any unsaved work will be lost.
+!               : Do you really want to exit?
+~ FocusIn `UI Message Dialog` `no`
+~ FocusIn `UI Message Dialog` `yes`
+~ Activate `UI Message Dialog` `yes`
+!End of Trail File
